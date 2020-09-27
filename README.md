@@ -1,1 +1,2 @@
-# SpaceX - проект основанный на открытом API https://docs.spacexdata.com/#intro
+# SpaceX Tracker
+Проект основанный на открытом API https://docs.spacexdata.com/#intro
